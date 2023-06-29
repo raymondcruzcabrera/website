@@ -1,0 +1,11 @@
+body {
+
+    background-color: rgb(15, 217, 240);
+    color:brown;
+}
+
+img {
+
+    max-width: 200px;
+    max-height: 200px;
+}
